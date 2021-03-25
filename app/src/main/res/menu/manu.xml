@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/opGrabar"
+        android:title="Grabar"
+    ></item>
+    <item
+        android:id="@+id/opModificar"
+        android:title="Modificar"
+    ></item>
+    <item
+        android:id="@+id/opEliminar"
+        android:title="Eliminar"
+        ></item>
+    <item
+        android:id="@+id/opListar"
+        android:title="Listar"
+        ></item>
+
+</menu>
